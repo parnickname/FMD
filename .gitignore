@@ -1,0 +1,9 @@
+# Бинарные файлы
+autoservice
+*.exe
+
+# База данных
+*.db
+
+# JSON файлы экспорта
+export_data.json
